@@ -1,0 +1,5 @@
+We can try implementing topic modelling. Try to extract/predict topics of every talk.
+
+Maybe sentiment analysis but theres no real sentiment here since all talks are inspirational/powerful stores. Can we classify if a troy is moving or not? probably based on the number of views. We can do that after we get all the text data.
+
+Semantic Relatedness as a measure of how similar two bodies of text are. These texts might have similar structure but completely different meanings.

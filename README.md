@@ -1,21 +1,16 @@
-# What?
+# Data
 
-This is a collection of the extracted narratives from TED (TED, TEDx, TEDEd) talks, that has been parsed and.
+This repo contains a collection of the extracted narratives from TED (TED, TEDx, TEDEd) talks, that has been forked from [here](https://github.com/saranyan/TED-Talks).
 
-# Why?
+# Natural Language Processing
 
-TED is an incredible organization that has brought stunning stories about the human race, its evolution, its advancements and challenges to the masses. I want to help spread these stories among stories with the help of Machine Learning.
+There are limitless number of things one could achieve with Natural Language Processing. I will be attempting to perform the following:
 
-With about 2500 (at the time of this writing) talks, TED has recorded over an incredible 34500 minutes (give or take), which is 24 days of listening/viewing.
+### Word-Cloud Generation
 
-[Note - TEDx ~ 40,000 mins, TEDEd ~ 9500 mins]
+> A picture is worth a thousand words. 
 
+Word-clouds are brilliant ways to visualize the content of a large body of text. Here is a simple word-cloud from TED talks.
 
-Unlike A/V files, text has few advantages:
-- Reading is faster than listening.
-- We can search text to find patterns, and then use those results to find more info.
-- We are way better technologically at organizing and extracting nuggets from text than from A/V.
+![image](C:\Users\Yash\TED-Talks\ted_cloud.png)
 
-What is more interesting to me is how this can help not only in spreading the word, but interesting story telling products on top of this data.
-
-There are a lot of things we can do with it.

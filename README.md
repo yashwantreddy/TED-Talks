@@ -25,6 +25,8 @@ It's really interesting to see the massive use of 'people' as it implies that TE
 
 Words by themselves do make sense. Words coupled with other words make more sense. n-grams looks at the coupling of words and we try to analyze the trend from it.
 
+![image](images/n-grams.png)
+
 In the context of actual TED talks, n-grams do not reveal the entire story. They rather point in the direction of where the talk topic is located - which brings us to the next section - Topic Modeling.
 
 ### Topic Modeling 
@@ -33,7 +35,7 @@ Given the diverse selection of TED talks to watch/read, is it possible to genera
 
 ![image](images/topic_modeling.png)
 
-My Topic Modeling model (NMF) seems to derive these topics. Let's validate them by printing 5 random titles from a particular topic/s.
+My Topic Modeling model (NMF) seems to derive these topics. Let's validate them by printing 10 random titles from a particular topic/s.
 
 ![image](images/top_mod_eval_1.png)
 
